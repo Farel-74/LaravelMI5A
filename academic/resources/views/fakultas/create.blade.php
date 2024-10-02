@@ -10,7 +10,7 @@
     @enderror
     <input type="text" name="nama" id="" class="form-control mb-2">
     
-    Dekan 
+    Dekann 
     @error('dekan')
         <span class="text-danger">({{ $message }})</span>
     @enderror
